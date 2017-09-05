@@ -1,5 +1,5 @@
 # chromedriver armv7
-Chromedriver for armv7 (eg: Raspberrypi 2/3)
+Chromedriver for Raspberrypi 2 or 3
 --------------------------------------------
 
 download choromdriver for armv7 architecture.
