@@ -1,8 +1,8 @@
-# chromedriver armv7
+# chromedriver arm
 Chromedriver for Raspberrypi 2 or 3
 --------------------------------------------
 
-download chromedriver for armv7 architecture.
+download chromedriver for arm architecture.
 
 https://github.com/electron/electron/releases
 
